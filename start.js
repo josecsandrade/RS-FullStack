@@ -7,3 +7,9 @@ console.log("Hellor world 2")
 
 console.log('Hellor world 3')
 
+
+
+let names = "jose";
+let age = 36;
+
+console.log(names, age)
