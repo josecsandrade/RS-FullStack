@@ -14,11 +14,3 @@ let age = 36;
 
 console.log(names, age)
 
-
-
-git remote set-url origin https://github.com/clebsom@outlook.com/RS-FullStack.git
-
-
-
-///
-importScripts
