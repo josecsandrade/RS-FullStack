@@ -1,0 +1,38 @@
+body{
+    background-image: url(./images/fundo.svg);
+    background-repeat: no;
+    animation-duration: 20ms;
+    font-size: 20px;
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-size: cover;
+}
+
+#page{
+    background-color: antiquewhite;
+    border-radius: 45px;
+    width: 1500px;
+    background-position: center;
+    margin: 48px auto;
+    padding: 20px;
+
+}
+
+#jardim-botanico{
+    border-radius: 40px;
+}
+
+#parque-barigui{
+    border-radius: 40px; 
+}
+
+#parque-tangua{
+    border-radius: 50px;
+
+}
+
+footer{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
