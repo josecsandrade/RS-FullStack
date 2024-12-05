@@ -1,0 +1,10 @@
+.grid{
+    display: grid;
+}
+
+
+.grid-flow-col{
+
+    grid-auto-flow: column;
+}
+

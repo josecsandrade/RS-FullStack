@@ -8,7 +8,7 @@
 :root{
 --brand-color-light:   #60A5FA;
 --brand-color-dark:  #1D4ED8;
---bg-color:  #2263fb;
+--bg-color:  #0F172A;
 --stroke-color:  #1E293B;
 --text-color-primary:  #F1F5F9 ;
 --text-color-secondary: #CBD5E1 ;
@@ -44,4 +44,13 @@ a:hover{
 
 h1, h2, h3{
     font: inherit;
+}
+
+
+.grid{
+    display: grid;
+}
+
+.grid-flow-col{
+    grid-auto-flow: column;
 }
