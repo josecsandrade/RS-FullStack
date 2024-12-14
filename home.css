@@ -1,0 +1,45 @@
+:root{
+    margin-top: 10px;
+    padding: 10px;
+
+
+    --soft-color: #1C1C1C;
+    --soft-dream: #0000CD;
+    --soft-amazing: #00FF7F;
+    --soft-curier: #8FBC8F;
+
+}
+
+.tho{
+    margin: 5px;
+    padding: 5px;
+    border: solid 1px  lightcoral;
+    text-align: start;
+    
+    text-decoration: underline;
+ 
+}
+
+.tho:hover{
+    background-color: var(--soft-amazing);
+   
+}
+
+
+#primeiro-botao{
+
+    color: black;
+    border-radius: 5px;
+    font-size: larger;
+    margin: 5px;
+    padding: 5px;
+    background-color: #00FF7F;
+
+    
+
+    
+}
+
+#primeiro-botao:hover{
+    background: lightcoral   
+}
