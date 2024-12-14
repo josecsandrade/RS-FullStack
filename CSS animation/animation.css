@@ -1,0 +1,16 @@
+div{
+    
+    transition-property: opacity, transform;
+    transition-duration: 400ms;
+    
+    transition-timing-function: steps(2);
+    
+    border-radius: 10px;
+}
+
+div:hover{
+
+    opacity: 1;
+    transform: translateX(10px);
+
+}
