@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;;
+    box-sizing: border-box;
+}
+
+ 
+ #app{
+    display: grid;
+    grid-template-columns: 51.25% 48.75%;
+
+    height: 100vh;
+    overflow: hidden;
+    
+
+ }
+
+ main{
+    background: lightcyan;
+    overflow: auto;
+
+    & .main-container{
+        max-width: 33rem;
+        margin-left: 4rem;
+    
+    }
+ }
+
+ aside{
+    background: lightcoral;
+    padding: 4rem;
+
+    & .aside-contaner{
+        max-width: 31rem;
+        margin: auto;
+    }
+ }
+
+ 
