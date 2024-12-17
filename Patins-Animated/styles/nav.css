@@ -1,0 +1,50 @@
+nav{
+
+width: 80rem;
+height: 100%;
+padding: 1.25rem 2.5rem;
+margin-inline: auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+
+
+
+  img{
+    width: 2rem;
+    height: 2rem;
+    transition: transform 500ms;
+  }
+
+    img[src*="logo"]:hover{
+        transform: rotate(90deg);
+    }
+
+    img[src*="shopping"]:hover{
+        transform: rotate(-30deg);
+    }
+
+
+    a{
+        position: absolute;
+ 
+    }
+
+    a{
+        position: relative;
+        display: flex;
+        justify-content: center;
+      
+       
+    }
+
+    a span{
+        background: var(--snitap-sun);
+       
+        
+               
+    }
+
+}

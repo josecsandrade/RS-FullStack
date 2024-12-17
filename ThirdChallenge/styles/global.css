@@ -6,12 +6,18 @@
 }
 
 :root{
---brand-color-light:   #60A5FA;
---brand-color-dark:  #1D4ED8;
---bg-color:  #0F172A;
---stroke-color:  #1E293B;
+--snitap-sun: #FFCD1E;
+--snitap-sky-mid: #06B6D4;
+--snitap-sky-light: #67E8F9;
+--snitap-joy-mid: #F472B6;
+--snitap-leaf-mid: #16A34A;
+
+
 --text-color-primary:  #F1F5F9 ;
 --text-color-secondary: #CBD5E1 ;
+
+
+
 
 --font-family: 'Archivo', sans-serif;
 
